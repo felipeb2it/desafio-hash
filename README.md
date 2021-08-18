@@ -1,8 +1,9 @@
 ## Avaliação técnica Hash
 
 Tecnologias utilizadas: Micronaut, Java 11, e Junit 5.
+O projeto já inclui um wrapper do Maven para realizar operações básicas da aplicação.
 
-Para iniciar os serviços por linha de comando e digitar mvnw mn:run
+É necessário rodar o comando mvnw compile antes de iniciar a aplicação. Para iniciar os serviços por linha de comando e digitar mvnw mn:run
 
 Os testes podem ser iniciados ao digitar mvnw test. Antes de iniciar os testes é necessário fazer o run da aplicação,
 esta descrito no passo anterior.
